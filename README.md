@@ -7,7 +7,7 @@ MagicRats © 2024 by MagicRats is licensed under Creative Commons Attribution-No
               src="https://i.creativecommons.org/l/by/3.0/88x31.png" />
           </a>
           <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
-            Lawrence Lessig at the CC Global Summit 2015
+            Lawrence Lessig at the CC Global Summit 2024
           </span>
           <a xmlns:cc="https://creativecommons.org/ns#" 
           href="https://vimeo.com/143427866"
